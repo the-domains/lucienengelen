@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Biography.
-datePublished: '2016-03-12T23:31:49.609Z'
-dateModified: '2016-03-12T23:31:42.317Z'
+datePublished: '2016-03-12T23:32:09.445Z'
+dateModified: '2016-03-12T23:31:56.184Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-biography.md
@@ -376,7 +376,7 @@ Internet and social media for health-related information and
 communication in health care
 
 Tom H Van de Belt, **Lucien JLPG Engelen**, Sivera AA Berben,
-Steven Teerenstra, Melvin Samsom, Lisette Schoonhoven. JMIR **[URL: http://www.jmir.org/2013/10/e220][1] **
+Steven Teerenstra, Melvin Samsom, Lisette Schoonhoven. JMIR **[URL: http://www.jmir.org/2013/10/e220][1]**
 
 **2012 ****: ****Use of social media by Western
 European hospitals: longitudinal study**
