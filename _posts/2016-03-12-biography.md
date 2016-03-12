@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Biography.
-datePublished: '2016-03-12T22:29:36.756Z'
-dateModified: '2016-03-12T22:27:05.528Z'
+datePublished: '2016-03-12T22:30:56.703Z'
+dateModified: '2016-03-12T22:29:37.914Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-biography.md
@@ -120,14 +120,8 @@ asked to join the Police leadership and the Ministry of Health, but ended up at
 Radboud University
 Nijmegen Medical Center.\*
 
-\* Member of board of Dutch EMS directors;
-
-\* Member of Dutch ICT en Innovation group of the Health Dept;\* Member of Advisory board NICTIZ\* Member of Dutch Councel to stimulate Multidisciplinairy Informatics for
-the Interior Safety.
-
-\* Founder of the Dutch Steering committee ICT & Acute Healthchain.
-
-\* Boardmember of the Multidisciplinairy Dispatchcenter Limburg Noord
+Member of board of Dutch EMS directors. Member of Dutch ICT en Innovation group of the Health Dept;\* Member of Advisory board NICTIZ\* Member of Dutch Councel to stimulate Multidisciplinairy Informatics for
+the Interior Safety. Founder of the Dutch Steering committee ICT & Acute Healthchain. Boardmember of the Multidisciplinairy Dispatchcenter Limburg Noord
 (Together with Police-chief, Fire-chief.)
 
 ****
