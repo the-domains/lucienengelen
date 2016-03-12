@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Biography.
-datePublished: '2016-03-12T23:06:04.315Z'
-dateModified: '2016-03-12T23:05:16.252Z'
+datePublished: '2016-03-12T23:12:24.241Z'
+dateModified: '2016-03-12T23:12:09.372Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-biography.md
@@ -208,6 +208,61 @@ to improve the health
 of many prevails. It is also a bold statement: a hospital patient that actually
 dares to approach
 the patient as a partner.»
+
+****
+
+**2015****: Awarded with ****the Prof. Dr. Michael-van Vloten Medal May
+2015 for the Michaël Lecture**
+
+Since
+1990 the Michael van Vloten Foundation in close collaboration with the Dutch
+Surgical Society from
+time to time sets stage for the "Dr. Michael Lecture". For this the foundation
+awards a prestigious
+foreign surgeon with the "Dr Michael Medal" and invites him or her cordially to
+the Netherlands
+to give a plenary lecture during the
+annual Dutch Surgical Congress.
+
+****
+
+**2015 ****: ****Honored to give the first ever Prof. Dr.
+Frans Nijhuis lecture October 2015\.**
+
+Invited
+by the LOCUS network to address members on behalf of the work the late Frans
+Nijhuis did on
+the aspect of inclusive employability. Based on the shift happening in
+healthcare, he pointed out the
+opportunities from hospital to home, into to similar processes from home to
+work for inclusive employability.
+
+****
+
+**2012
+-- present  ****Linkedin Influencer.**
+
+Named
+one of the initial 150 world thought leaders : Invited
+to blog on LinkedIn Today homepages as part of the initial 150 global influencers program. With 600.000+ followers as of January 2016
+
+****
+
+**2016  **Organizer of conference
+OurFutureHealth May 26th
+
+During
+'OurFutureHealth' we will host a great array of speakers including patients, doctors & nurses, researchers, technologists
+and musicians. Already confirmed are experts in their field like Dutch Minister of Health
+Edith Schippers, Frans van Houten CEO Royal Philips, Peter Hinssen (writer The new normal), Daniel
+Kraft (Singularity University), Jos de Blok (Buurtzorg), Oscar Kneppkens (Rockstart) and the and
+both the chairs of our Patients Advisory Council Jopie Verhoeven and Eva Eikhorst. )
+
+Hosting simultaneously a National track as well as a Global track (touching
+base in 20-30 cities via the internet) it is a Worlds first conference like
+this. The theme of the
+conference will be : how to create sustainable health(care) with \#patientsincluded innovation
+and the help of startups. www.ourfuturehealth.org
 
 __[][0]
 
