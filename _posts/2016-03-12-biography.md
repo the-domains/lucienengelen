@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Biography.
-datePublished: '2016-03-12T22:10:57.124Z'
-dateModified: '2016-03-12T22:08:20.801Z'
+datePublished: '2016-03-12T22:13:31.773Z'
+dateModified: '2016-03-12T22:12:51.348Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-biography.md
@@ -67,6 +67,20 @@ participation of patients
 and their informal care in their own disease, working towards raising the level
 of participation
 in Health(care), research and education. 
+
+****
+
+**2014 -- present****: ****Chief
+Imagineer Dutch National IT Institute for Healthcare NICTIZ:**
+
+What
+will the future look like, and what do we have to do today to cope with that.
+'Imagineering is a contraction
+of imagination' (imagination) and 'engineering' (technique). It is a form of communication
+in which the perception imagineer seeks to strengthen the connection. Between organization
+and audience through experience, not only through text in a rational way, but
+also through
+other senses.' 
 
 ****
 
