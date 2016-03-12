@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Biography.
-datePublished: '2016-03-12T22:06:13.846Z'
-dateModified: '2016-03-12T22:05:43.395Z'
+datePublished: '2016-03-12T22:08:12.680Z'
+dateModified: '2016-03-12T22:07:38.896Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-biography.md
@@ -36,18 +36,12 @@ acts on the convergence of technology and patient empowerment. Creating
 breakthrough programs, foresights and products if industry lacks progression
 itself. 
 
-2010-Present
-
 ****
 
-**Director
-Radboud REshape Center, Radboudumc, Nijmegen, the Netherlands.**
-
-Challenges for healthcare
+**2010 - present : Director
+Radboud REshape Center, Radboudumc, Nijmegen, the Netherlands. **Challenges for healthcare
 are enormous: increasing demand, decreasing budgets and shortage in skilled personnel puzzle many
-healthcare administrators. To cope with these aspects, at Radboud
-
-University
+healthcare administrators. To cope with these aspects, at RadboudUniversity
 Medical Center, initiated the REshape Center that is at the convergence of
 patient-empowerment
 and (exponential) technology.
