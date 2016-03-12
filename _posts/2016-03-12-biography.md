@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Biography.
-datePublished: '2016-03-12T21:40:24.788Z'
-dateModified: '2016-03-12T21:39:44.788Z'
+datePublished: '2016-03-12T21:51:56.622Z'
+dateModified: '2016-03-12T21:49:50.412Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-biography.md
@@ -35,6 +35,22 @@ and education. He is founding Director of the Radboud REshape Center, that
 acts on the convergence of technology and patient empowerment. Creating
 breakthrough programs, foresights and products if industry lacks progression
 itself. 
+
+2010-Present
+
+****
+
+**Director
+Radboud REshape Center, Radboudumc, Nijmegen, the Netherlands.**
+
+Challenges for healthcare
+are enormous: increasing demand, decreasing budgets and shortage in skilled personnel puzzle many
+healthcare administrators. To cope with these aspects, at Radboud
+
+University
+Medical Center, initiated the REshape Center that is at the convergence of
+patientempowerment
+and (exponential) technology.
 
 ****
 
