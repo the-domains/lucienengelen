@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Biography.
-datePublished: '2016-03-12T22:01:41.622Z'
-dateModified: '2016-03-12T22:01:23.116Z'
+datePublished: '2016-03-12T22:03:11.137Z'
+dateModified: '2016-03-12T22:02:42.217Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-biography.md
@@ -62,6 +62,23 @@ patients in the right facility based on evidence, research and
 guidelines. Next to responsibility for the MobileMedical
 team (including Trauma-helicopter) together with midwifery, GP's, Hospitals and
 ambulances services. 
+
+****
+
+**2008- present**
+
+**:****Advisory of the Executive Board:**
+
+Advising
+the Executive Board in terms of changes in healthcare enhancing the
+participation of 
+
+patients
+and their informal care in their own disease, working towards raising the level
+of 
+
+participation
+in Health(care), research and education.
 
 ****
 
