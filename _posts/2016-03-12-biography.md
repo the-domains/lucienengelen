@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Biography.
-datePublished: '2016-03-12T21:55:18.728Z'
-dateModified: '2016-03-12T21:54:36.293Z'
+datePublished: '2016-03-12T21:58:21.335Z'
+dateModified: '2016-03-12T21:56:09.164Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-biography.md
@@ -51,6 +51,17 @@ University
 Medical Center, initiated the REshape Center that is at the convergence of
 patientempowerment
 and (exponential) technology.
+
+****
+
+**2008-March 2016 : ****Head of the Regional Emergency Network:**
+
+Coordinating
+the Acute healthcare (roughly) in the province of Gelderland to treat the right
+patients in the right facility based on evidence, research and
+guidelines. Next to responsibility for the MobileMedical
+team (including Trauma-helicopter) together with midwifery, GP's, Hospitals and
+ambulances services. 
 
 ****
 
