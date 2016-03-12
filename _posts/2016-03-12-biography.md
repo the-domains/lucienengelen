@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Biography.
-datePublished: '2016-03-12T22:03:11.137Z'
-dateModified: '2016-03-12T22:02:42.217Z'
+datePublished: '2016-03-12T22:06:13.846Z'
+dateModified: '2016-03-12T22:05:43.395Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-biography.md
@@ -54,7 +54,7 @@ and (exponential) technology.
 
 ****
 
-**2008-March 2016 : ****Head of the Regional Emergency Network:**
+**2008-March 2016 : Head of the Regional Emergency Network:**
 
 Coordinating
 the Acute healthcare (roughly) in the province of Gelderland to treat the right
@@ -65,20 +65,14 @@ ambulances services.
 
 ****
 
-**2008- present**
-
-**:****Advisory of the Executive Board:**
+**2008- present : Advisory of the Executive Board:**
 
 Advising
 the Executive Board in terms of changes in healthcare enhancing the
-participation of 
-
-patients
+participation of patients
 and their informal care in their own disease, working towards raising the level
-of 
-
-participation
-in Health(care), research and education.
+of participation
+in Health(care), research and education. 
 
 ****
 
