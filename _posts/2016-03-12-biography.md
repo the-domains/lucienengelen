@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Biography.
-datePublished: '2016-03-12T21:51:56.622Z'
-dateModified: '2016-03-12T21:49:50.412Z'
+datePublished: '2016-03-12T21:54:32.139Z'
+dateModified: '2016-03-12T21:52:54.052Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-biography.md
