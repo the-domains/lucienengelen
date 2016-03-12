@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Biography.
-datePublished: '2016-03-12T22:50:15.054Z'
-dateModified: '2016-03-12T22:46:57.379Z'
+datePublished: '2016-03-12T23:05:08.669Z'
+dateModified: '2016-03-12T23:04:53.343Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-biography.md
@@ -126,4 +126,95 @@ the Interior Safety. Founder of the Dutch Steering committee ICT & Acute Healthc
 
 ****
 
+**1983 -- 2003 : ****Co-owner and director Engelen-group:**
+
+Several
+companies in a Holding i.e. in Automotive, Health Care and Funeral services.
+Mainly responsible
+for strategy, personnel affairs and leading and developing the
+organization. After my choice to
+focus on the EMS branche sold the other divisions. Lead merger with 2 other
+parties and became CEO
+of the Merged foundation RAV Limburg Noord.
+
+****
+
+**_Significant Contributions_**
+
+_****_
+
+**2011- 2013 : ****Initiated 5
+TEDx-conferences**
+
+Each
+1000 seats. **TEDxMaastricht** ever was held in 2011 : 1000 people in
+Audience, 20.000 by
+Livestreams. **TEDxMaastricht April 2nd 2012**, was the second edition again in
+Maastricht. **April 8th
+2013** the third edition was held in our University's hometown Nijmegen,
+"Accelerating fromage 0 to
+110" . The Radboud University' **TEDxRadboudU May 23rd** was on REgaining
+trust.   
+His was the second Dutchmen with a TED talk featured on the famous TED.com platform.
+
+**2014 ****: ****Dutch National TV future-affairs program
+Backlight (Tegenlicht)**
+
+Aired
+a documentary on
+his vision and approach to change healthcare into a more participatory environment
+in the REshape Innovation Center at Radboud University Medical Center
+Nijmegen. https://vimeo.com/radboudumc/backlight
+
+****
+
+**2015 ****: ****Awarded with the Radboud Medal 2015**
+
+Once
+a year the prestigious Radboud Medal is being awarded as the highest honor of
+Radboudumc to
+someone who has had an extraordinary impact in the enrollment of the strategy
+of Radboud University
+Medical Center in the fields of academic medicine and healthcare. 
+
+****
+
+**2015 ****: ****Awarded with the TIM 2015 as most
+inspirational leader in IT**
+
+« Lucien
+Engelen, dares to put the patient fully central place within the care process,
+actually as partners
+in their own care. Within the Nijmegen hospital leadership he exemplifies the
+so-called REshape-way,
+that combines both people and ideas and uses technologies to glue those
+together. Although
+he works with a small core team, his organically way of organizing and
+disruption of existing
+processes is energizing.He is an
+inspiration for all : stakeholders: patients and their families,
+doctors, nurses, students and policymakers. "It's
+not about me, nor my team. Together, there are thousands of us", said
+Engelen ".A striking initiative
+is their ecosystem Hereismydata. Together with Philips and with the help of
+cloud software provider
+Salesforce they developed a combination of a personal health record, an online community,
+as well as connectivity platform for medical equipment, wearables and apps,
+together with
+patients and their social circle. A great example of stimulating an 'patient
+engagement in the care
+process. Lucien Engelen doesn't innovate to make money; the innovative spirit
+to improve the health
+of many prevails. It is also a bold statement: a hospital patient that actually
+dares to approach
+the patient as a partner.»
+
+__[][0]
+
 __
+
+****
+
+__
+
+[0]: https://vimeo.com/radboudumc/backlight
