@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Biography.
-datePublished: '2016-03-12T23:14:26.905Z'
-dateModified: '2016-03-12T23:14:23.219Z'
+datePublished: '2016-03-12T23:31:49.609Z'
+dateModified: '2016-03-12T23:31:42.317Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-biography.md
@@ -248,8 +248,8 @@ to blog on LinkedIn Today homepages as part of the initial 150 global influencer
 
 ****
 
-**2016  **Organizer of conference
-OurFutureHealth May 26th
+**2016  Organizer of conference
+OurFutureHealth May 26th**
 
 During
 'OurFutureHealth' we will host a great array of speakers including patients, doctors & nurses, researchers, technologists
@@ -264,7 +264,140 @@ this. The theme of the
 conference will be : how to create sustainable health(care) with \#patientsincluded innovation
 and the help of startups. www.ourfuturehealth.org
 
-__[][0]
+****
+
+**Academic Papers:**
+
+**2016 ****(****expected****) Online Platforms for Monitoring
+Personal Health: A Scoping Review. **
+
+Tom
+H van de Belt, PhD; Mariska Weenk, MD MSc; Ester Rake, MSc; **Lucien JLPG Engelen** ; Patrick M
+Archambault, MD, FRCPC; H van Goor, MD, PhD, FRCPC; Bas Bredie, MD, PhD;
+Marleen MHJ van Gelder, PhD. _(in
+progress)_
+
+**Personalized
+Consent Flow in Contemporary Data Sharing for Medical Research.**
+
+Ester
+Rake, MSc; Marleen MHJ van Gelder, PhD; David Grim, MSc; Barend Heeren, MSc. **Lucien JLPG Engelen; **Tom H van de
+Belt, PhD_(submitted)_
+
+****
+
+**How to recruit participants into
+observational studies? A systematic review and meta-analysis.**
+
+Marleen M H J van Gelder, PhD;
+Richelle Vlenterie, PhD candidate **;Lucien J L P G Engelen**; Alina
+Vrieling, PhD;Tom H van de Belt, PhD _(In progress)._
+
+****
+
+**REbuild2REsearch: a novel
+platform to use Apple's ResearchKit for medical research.**
+
+Van Gelder MMHJ, **Engelen
+LJLPG, ** Sondag T, van de Belt TH. 
+
+__
+
+****
+
+_(In progress, will be submitted after
+launch platform May 26th)_
+
+**2016****:**
+
+A new cuffless device measuring blood
+pressure, a real life study. 
+
+Tessa S
+Schoot1, MD; Mariska Weenk, MD; Tom H van de Belt, PhD; **Lucien JLPG** Engelen;
+Harry van
+Goor,MD, PhD, FRCPC;
+Sebastian JH Bredie, MD PhD. J Med Internet Res (forthcoming).  
+URL: http://dx.doi.org/10.2196/jmir.5414
+
+****
+
+**Stress measurement in
+surgeons and residents using a smart patch. **
+
+Mariska
+Weenk, Alexander PB Alken, **Lucien JLPG
+Engelen**; Sebastian JH Bredie, Tom H van de Belt, P, Harry van Goor. _(article submitted)_
+
+****
+
+**Stress measurement in
+surgeons and residents using a smart patch**
+
+Mariska
+Weenk, Alexander
+PB, Alken, **Lucien JLPG Engelen**; Sebastian JH Bredie, Tom H van de Belt, Harry
+van Goor. Tides of stress in
+surgery._(Abstract, Association of Surgical Education (ASE) 2015)_
+
+****
+
+**2015 ****: ****"What Is eHealth": Time for An
+Update?**
+
+A Boogerd, T Arts**, Lucien JLPG Engelen, **TH van de Belt. JMIR Research Protocols 2015;4:e29\. URL: http://www.researchprotocols.org/2015/1/e29/
+
+[][0]**Using patient
+experiences on Dutch social media to supervise health care services ****exploratory study. **  
+Tom H
+van de Belt, **Lucien JLPG Engelen ,
+Lise M Verhoef, Marian JA van der Weide, Lisette **Schoonhoven,
+Rudolf B Kool. JMIR 2015;17:1\. URL: http://www.jmir.org/2015/1/e7/
+
+****
+
+**2014 ****: ****Social media and rating sites as
+tools to understanding quality of care: a scoping review**
+
+**Lise M.**Verhoef,
+Tom H van de Belt, **Lucien JLPG Engelen**,
+Lisette Schoonhoven, Rudolf B Kool. JMIR 2014;16:e56\.
+URL: http://www.jmir.org/2014/2/e56/
+
+****
+
+****
+
+**2013 : Internet and social media for
+health-related information and communication in health care preferences
+of the Dutch general population. **
+
+Internet and social media for health-related information and
+communication in health care
+
+Tom H Van de Belt, **Lucien JLPG Engelen**, Sivera AA Berben,
+Steven Teerenstra, Melvin Samsom, Lisette Schoonhoven. JMIR **[URL: http://www.jmir.org/2013/10/e220][1] **
+
+**2012 ****: ****Use of social media by Western
+European hospitals: longitudinal study**
+
+Tom H Van de Belt, Sivera AA
+Berben, Melvin Samsom, **Lucien JLPG
+Engelen, **Lisette Schoonhoven.
+
+**2010 ****: Definition of Health 2.0 and Medicine 2.0 : A Systematic Review.**
+
+Van De Belt
+TH,**Engelen Lucien JLPG **, Berben SAA,
+Schoonhoven L,
+
+_J Med Internet Res, _
+
+[][2]
+
+[www.jmir.org/2010/2/e18][2]
+
+__[][3]
 
 __
 
@@ -272,4 +405,7 @@ __
 
 __
 
-[0]: https://vimeo.com/radboudumc/backlight
+[0]: http://www.researchprotocols.org/2015/1/e29/
+[1]: http://www.jmir.org/2013/10/e220
+[2]: http://www.jmir.org/2010/2/e18
+[3]: https://vimeo.com/radboudumc/backlight
