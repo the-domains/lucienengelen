@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Biography.
-datePublished: '2016-03-12T22:20:46.498Z'
-dateModified: '2016-03-12T22:20:45.359Z'
+datePublished: '2016-03-12T22:24:09.755Z'
+dateModified: '2016-03-12T22:22:14.375Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-biography.md
@@ -122,11 +122,7 @@ Nijmegen Medical Center.\*
 
 \* Member of board of Dutch EMS directors;
 
-\* Member of Dutch ICT en Innovation group of the Health Dept;
-
-\* Member of Advisory board NICTIZ
-
-\* Member of Dutch Councel to stimulate Multidisciplinairy Informatics for
+\* Member of Dutch ICT en Innovation group of the Health Dept;\* Member of Advisory board NICTIZ\* Member of Dutch Councel to stimulate Multidisciplinairy Informatics for
 the Interior Safety.
 
 \* Founder of the Dutch Steering committee ICT & Acute Healthchain.
