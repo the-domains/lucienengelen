@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Biography.
-datePublished: '2016-03-12T22:13:31.773Z'
-dateModified: '2016-03-12T22:12:51.348Z'
+datePublished: '2016-03-12T22:14:51.921Z'
+dateModified: '2016-03-12T22:14:45.519Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-biography.md
@@ -81,6 +81,31 @@ in which the perception imagineer seeks to strengthen the connection. Between or
 and audience through experience, not only through text in a rational way, but
 also through
 other senses.' 
+
+****
+
+**2011 -- present  : ****Core
+Faculty Singularity University Exponential Medicine Silicon Valley:**
+
+Founded
+by i.e. Google, NASA, Autodesk
+
+http://exponential.singularityu.org/medicine/
+
+Exponential Medicine
+(formerly known as FutureMed) at Singularity University (founded by Google,
+Autodesk and NASA) is based on the NASA Ames Research
+Park in the heart of Silicon Valley.How
+will rapidly developing
+technologies such as low
+cost genomic sequencing, artificial intelligence, telemedicine, robotics,
+24/7 body wearable monitors, smart pills, stem cells, synthetic biology, gene
+therapy, mobile
+phone apps and crowd sourced health data affect the future of healthcare and
+medicine
+
+Member
+of core team bringing Singularity University to the Netherlands in 2016
 
 ****
 
