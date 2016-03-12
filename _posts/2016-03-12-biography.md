@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Biography.
-datePublished: '2016-03-12T23:36:10.658Z'
-dateModified: '2016-03-12T23:35:17.295Z'
+datePublished: '2016-03-12T23:44:53.109Z'
+dateModified: '2016-03-12T23:43:34.406Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-biography.md
@@ -268,8 +268,8 @@ and the help of startups. www.ourfuturehealth.org
 
 **Academic Papers:**
 
-**2016 ****(****expected****) Online Platforms for Monitoring
-Personal Health: A Scoping Review. **
+_**2016 ****(****expected****) Online Platforms for Monitoring
+Personal Health: A Scoping Review. **_
 
 Tom
 H van de Belt, PhD; Mariska Weenk, MD MSc; Ester Rake, MSc; **Lucien JLPG Engelen** ; Patrick M
@@ -277,64 +277,42 @@ Archambault, MD, FRCPC; H van Goor, MD, PhD, FRCPC; Bas Bredie, MD, PhD;
 Marleen MHJ van Gelder, PhD. _(in
 progress)_
 
-**Personalized
-Consent Flow in Contemporary Data Sharing for Medical Research.**
-
-Ester
+**_Personalized
+Consent Flow in Contemporary Data Sharing for Medical Research. _**Ester
 Rake, MSc; Marleen MHJ van Gelder, PhD; David Grim, MSc; Barend Heeren, MSc. **Lucien JLPG Engelen; **Tom H van de
 Belt, PhD_(submitted)_
 
-****
-
-**How to recruit participants into
-observational studies? A systematic review and meta-analysis.**
-
-Marleen M H J van Gelder, PhD;
+**_How to recruit participants into
+observational studies? A systematic review and meta-analysis. _**Marleen M H J van Gelder, PhD;
 Richelle Vlenterie, PhD candidate **;Lucien J L P G Engelen**; Alina
 Vrieling, PhD;Tom H van de Belt, PhD _(In progress)._
 
 ****
 
-**REbuild2REsearch: a novel
-platform to use Apple's ResearchKit for medical research.**
-
-Van Gelder MMHJ, **Engelen
-LJLPG, ** Sondag T, van de Belt TH. 
-
-__
-
-****
-
-_(In progress, will be submitted after
+**_REbuild2REsearch: a novel
+platform to use Apple's ResearchKit for medical research. _**Van Gelder MMHJ, **Engelen
+LJLPG, ** Sondag T, van de Belt TH. _(In progress, will be submitted after
 launch platform May 26th)_
 
 **2016****:**
 
-A new cuffless device measuring blood
-pressure, a real life study. 
+_**A new cuffless device measuring blood
+pressure, a real life study. **_Tessa S
+Schoot1, MD; Mariska Weenk, MD; Tom H van de Belt, PhD; **Lucien JLPG  **.
 
-Tessa S
-Schoot1, MD; Mariska Weenk, MD; Tom H van de Belt, PhD; **Lucien JLPG** Engelen;
-Harry van
-Goor,MD, PhD, FRCPC;
-Sebastian JH Bredie, MD PhD. J Med Internet Res (forthcoming).  
 URL: http://dx.doi.org/10.2196/jmir.5414
 
 ****
 
-**Stress measurement in
-surgeons and residents using a smart patch. **
-
-Mariska
+**_Stress measurement in
+surgeons and residents using a smart patch. _**Mariska
 Weenk, Alexander PB Alken, **Lucien JLPG
 Engelen**; Sebastian JH Bredie, Tom H van de Belt, P, Harry van Goor. _(article submitted)_
 
 ****
 
-**Stress measurement in
-surgeons and residents using a smart patch**
-
-Mariska
+**_Stress measurement in
+surgeons and residents using a smart patch. _**Mariska
 Weenk, Alexander
 PB, Alken, **Lucien JLPG Engelen**; Sebastian JH Bredie, Tom H van de Belt, Harry
 van Goor. Tides of stress in
@@ -342,24 +320,21 @@ surgery._(Abstract, Association of Surgical Education (ASE) 2015)_
 
 ****
 
-**2015 ****: ****"What Is eHealth": Time for An
-Update?**
+_**2015 ****: **_
 
-A Boogerd, T Arts**, Lucien JLPG Engelen, **TH van de Belt. JMIR Research Protocols 2015;4:e29\. URL: http://www.researchprotocols.org/2015/1/e29/
+_**"**__**What Is eHealth": Time for An
+Update?**,****_A Boogerd, T Arts**, Lucien JLPG Engelen, **TH van de Belt. JMIR Research Protocols 2015;4:e29\. URL: http://www.researchprotocols.org/2015/1/e29/
 
-[][0]**Using patient
-experiences on Dutch social media to supervise health care services ****exploratory study. **  
-Tom H
+**_Using patient
+experiences on Dutch social media to supervise health care services _****_exploratory study. _**Tom H
 van de Belt, **Lucien JLPG Engelen ,
-Lise M Verhoef, Marian JA van der Weide, Lisette **Schoonhoven,
+**Lise M Verhoef, Marian JA van der Weide, Lisette****Schoonhoven,
 Rudolf B Kool. JMIR 2015;17:1\. URL: http://www.jmir.org/2015/1/e7/
 
 ****
 
-**2014 ****: ****Social media and rating sites as
-tools to understanding quality of care: a scoping review**
-
-**Lise M.**Verhoef,
+_**2014 ****: ****Social media and rating sites as
+tools to understanding quality of care: a scoping review. **_Lise M.Verhoef,
 Tom H van de Belt, **Lucien JLPG Engelen**,
 Lisette Schoonhoven, Rudolf B Kool. JMIR 2014;16:e56\.
 URL: http://www.jmir.org/2014/2/e56/
@@ -368,36 +343,43 @@ URL: http://www.jmir.org/2014/2/e56/
 
 ****
 
-**2013 : Internet and social media for
+**_2013 : Internet and social media for
 health-related information and communication in health care preferences
-of the Dutch general population. **
+of the Dutch general population. _**Tom H Van de Belt, **Lucien JLPG Engelen**, Sivera AA Berben,
+Steven Teerenstra, Melvin Samsom, Lisette Schoonhoven. JMIR **[URL: http://www.jmir.org/2013/10/e220][0]**
 
-Internet and social media for health-related information and
-communication in health care
+****
 
-Tom H Van de Belt, **Lucien JLPG Engelen**, Sivera AA Berben,
-Steven Teerenstra, Melvin Samsom, Lisette Schoonhoven. JMIR **[URL: http://www.jmir.org/2013/10/e220][1]**
+**2012, Use
+of social media by Western European hospitals: longitudinal study.  **
 
-**2012 ****: ****Use of social media by Western
-European hospitals: longitudinal study**
+AA
+Berben, Melvin Samsom, 
 
-Tom H Van de Belt, Sivera AA
-Berben, Melvin Samsom, **Lucien JLPG
-Engelen, **Lisette Schoonhoven.
+**Lucien JLPG
+Engelen**
 
-**2010 ****: Definition of Health 2.0 and Medicine 2.0 : A Systematic Review.**
+, Lise**Use
+of social media by Western European hospitals: longitudinal study**
 
-Van De Belt
+****
+
+. Tom H Van de Belt, Sivera 
+
+AA
+Berben, Melvin Samsom, 
+
+, Lisette Schoonhoven
+
+_**2010 ****: Definition of Health 2.0 and Medicine 2.0 : A Systematic Review. **_Van De Belt
 TH,**Engelen Lucien JLPG **, Berben SAA,
-Schoonhoven L,
+Schoonhoven L, __
 
-_J Med Internet Res, _
+[][1]
 
-[][2]
+[www.jmir.org/2010/2/e18][1]
 
-[www.jmir.org/2010/2/e18][2]
-
-__[][3]
+__[][2]
 
 __
 
@@ -405,7 +387,6 @@ __
 
 __
 
-[0]: http://www.researchprotocols.org/2015/1/e29/
-[1]: http://www.jmir.org/2013/10/e220
-[2]: http://www.jmir.org/2010/2/e18
-[3]: https://vimeo.com/radboudumc/backlight
+[0]: http://www.jmir.org/2013/10/e220
+[1]: http://www.jmir.org/2010/2/e18
+[2]: https://vimeo.com/radboudumc/backlight
