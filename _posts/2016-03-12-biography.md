@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Biography
-datePublished: '2016-03-12T21:38:26.018Z'
-dateModified: '2016-03-12T21:38:02.187Z'
+description: Biography.
+datePublished: '2016-03-12T21:40:24.788Z'
+dateModified: '2016-03-12T21:39:44.788Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-12-biography.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-biography.md
-published: true
 url: biography/index.html
 _type: Article
 
@@ -35,5 +35,7 @@ and education. He is founding Director of the Radboud REshape Center, that
 acts on the convergence of technology and patient empowerment. Creating
 breakthrough programs, foresights and products if industry lacks progression
 itself. 
+
+****
 
 __
