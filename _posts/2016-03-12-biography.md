@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Biography.
-datePublished: '2016-03-12T21:58:21.335Z'
-dateModified: '2016-03-12T21:56:09.164Z'
+datePublished: '2016-03-12T22:01:41.622Z'
+dateModified: '2016-03-12T22:01:23.116Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-biography.md
@@ -49,7 +49,7 @@ healthcare administrators. To cope with these aspects, at Radboud
 
 University
 Medical Center, initiated the REshape Center that is at the convergence of
-patientempowerment
+patient-empowerment
 and (exponential) technology.
 
 ****
