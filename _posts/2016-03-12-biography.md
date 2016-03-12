@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Biography.
-datePublished: '2016-03-12T23:44:53.109Z'
-dateModified: '2016-03-12T23:43:34.406Z'
+datePublished: '2016-03-12T23:46:47.130Z'
+dateModified: '2016-03-12T23:46:13.354Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-biography.md
@@ -350,34 +350,15 @@ Steven Teerenstra, Melvin Samsom, Lisette Schoonhoven. JMIR **[URL: http://www.j
 
 ****
 
-**2012, Use
-of social media by Western European hospitals: longitudinal study.  **
+**2012, ****Use
+of social media by Western European hospitals: longitudinal study **Tom H Van de Belt, Sivera
 
 AA
-Berben, Melvin Samsom, 
-
-**Lucien JLPG
-Engelen**
-
-, Lise**Use
-of social media by Western European hospitals: longitudinal study**
-
-****
-
-. Tom H Van de Belt, Sivera 
-
-AA
-Berben, Melvin Samsom, 
-
-, Lisette Schoonhoven
+Berben, Melvin Samsom,Lisette Schoonhoven. JMIR 2012;14:e61\. URL:
 
 _**2010 ****: Definition of Health 2.0 and Medicine 2.0 : A Systematic Review. **_Van De Belt
 TH,**Engelen Lucien JLPG **, Berben SAA,
-Schoonhoven L, __
-
-[][1]
-
-[www.jmir.org/2010/2/e18][1]
+Schoonhoven L,_,_[www.jmir.org/2010/2/e18][1]
 
 __[][2]
 
