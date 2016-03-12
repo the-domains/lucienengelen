@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Biography.
-datePublished: '2016-03-12T22:16:49.879Z'
-dateModified: '2016-03-12T22:15:00.970Z'
+datePublished: '2016-03-12T22:20:46.498Z'
+dateModified: '2016-03-12T22:20:45.359Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-biography.md
@@ -88,11 +88,7 @@ other senses.'
 Faculty Singularity University Exponential Medicine Silicon Valley:**
 
 Founded
-by i.e. Google, NASA, Autodesk
-
-http://exponential.singularityu.org/medicine/
-
-Exponential Medicine
+by i.e. Google, NASA, Autodesk. Exponential Medicine
 (formerly known as FutureMed) at Singularity University (founded by Google,
 Autodesk and NASA) is based on the NASA Ames Research
 Park in the heart of Silicon Valley.How
@@ -105,7 +101,38 @@ phone apps and crowd sourced health data affect the future of healthcare and
 medicine
 
 Member
-of core team bringing Singularity University to the Netherlands in 2016
+of core team bringing Singularity University to the Netherlands in 2016\. http://exponential.singularityu.org/medicine/
+
+****
+
+**2003 -- 2007 : ****CEO RAV Limburg Noord:**
+
+Is a Dutch EMS Service
+including Dispatch Center (in this case comparable with 911) Lead the
+merger and the merged company for almost 5 years as CEO. When the development
+of the organization
+stabilized and the consolidation phase ahead, I wrote the Control Board of the Foundation
+my Letter of Resignation as of Sept 1st, 2007\. Without a clear view on what
+would be next I
+started talking to 10 people near
+to my heart, when the word got out I was going to leave the RAV was
+asked to join the Police leadership and the Ministry of Health, but ended up at
+Radboud University
+Nijmegen Medical Center.\*
+
+\* Member of board of Dutch EMS directors;
+
+\* Member of Dutch ICT en Innovation group of the Health Dept;
+
+\* Member of Advisory board NICTIZ
+
+\* Member of Dutch Councel to stimulate Multidisciplinairy Informatics for
+the Interior Safety.
+
+\* Founder of the Dutch Steering committee ICT & Acute Healthchain.
+
+\* Boardmember of the Multidisciplinairy Dispatchcenter Limburg Noord
+(Together with Police-chief, Fire-chief.)
 
 ****
 
