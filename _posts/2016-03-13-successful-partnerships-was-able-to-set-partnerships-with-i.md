@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Apple : Being on of the only 2 hospitals outside the US to start using Health kit from the start \_\_"
-datePublished: '2016-03-13T13:01:27.110Z'
-dateModified: '2016-03-13T13:01:18.500Z'
+description: "Was able to set partnerships with i.e.:\_"
+datePublished: '2016-03-13T13:03:12.498Z'
+dateModified: '2016-03-13T13:01:36.087Z'
 author: []
 title: 'Successful Partnerships '
 sourcePath: _posts/2016-03-13-successful-partnerships-was-able-to-set-partnerships-with-i.md
