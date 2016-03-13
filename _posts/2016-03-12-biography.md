@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Biography.
-datePublished: '2016-03-13T08:11:01.834Z'
-dateModified: '2016-03-13T08:10:53.969Z'
+datePublished: '2016-03-13T08:25:40.157Z'
+dateModified: '2016-03-13T08:24:48.877Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-biography.md
@@ -399,27 +399,255 @@ Steven Teerenstra, Melvin Samsom, Lisette Schoonhoven. JMIR **[URL: http://www.j
 
 2015 - present: **_Member of editorial board JMIR Journal of Medical Internet Research_** edition mHealth and uHealth [http://mhealth.jmir.org/about/editorialTeam][6][][6]
 
+****
+
 **Published Reports**
 
 **2013 : **Report for the Dutch Healthcare Inspectorate [www.igz.nl][7]**_Sociale Media als informatiebron voor Toezicht op de Gezondheidszorg._** TH van de Belt, LM Verhoef,Msc **LJLPG Engelen**, L Schoonhoven, RB Kool. URL:[http://radboudreshapecenter.com/wpcontent/uploads/2014/06/Rapport\_SocialeMedia.pdf][8]
 
 **2010:**Report for the Emergency Healthcare Network Haagsma J, Scholten A, Van De Belt T, **Engelen L**, Van De Berg K, Berben S, Schoonhoven L. **_Pilot Meetweek Acute Zorgregio Oost: Pilotstudie naar de acute zorgvraag en aanbod in Acute Zorgregio Oost._** 2010\.
 
+****
+
 **Non Academic Publications**
 
 2013 : **_Toezicht in de 21e eeuw. _**TH van de Belt, H.W. Drewes, **LJLPG Engelen**, A. Huisman, R.B. Kool, L.Schoonhoven. Kwailiteit in zorg 2013;2\. 
 
-2012 -- present : Blogs in Linkedin's Influencer program See list of over 100 blogs (see attached list)
+.
 
-[][9]
+2012 -- present : **_Blogs in Linkedin's Influencer program_** See list of over 100 blogs (see attached list)
 
-[b][9]
+****
+
+**Lectures List**
+
+1\. Engelen LJLPG. Cannes Lions International Festival of Creativity. Lions Health Cannes. 2015\.
+
+2\. Engelen LJLPG. Morgen begint vandaag. 2015\.
+
+3\. Engelen LJLPG. The Michaël Lecture 2015\. michaelfondsnl. 2015\.
+
+4\. Engelen LJLPG. BBC - Horizons - Episode 3: Extending Lives. wwwbbcnewscom. 2015\.
+
+5\. Engelen LJLPG. Oud-nieuw festival. 2015\.
+
+6\. Engelen LJLPG. Interventional Cardiology congres. 2015\. http://www.europcr.com/.
+
+7\. Engelen LJLPG. Rapid Response System Conference. 2015\.
+
+8\. Engelen LJLPG. KNMP. 2015\.
+
+9\. Engelen LJLPG. UHAsselt Limburg Lezing. 2015\.
+
+10\. Engelen LJLPG. U krijgt een nieuwe collega: de patiënt - Lucien Engelen -- KU Leuven 2015\.
+
+11\. Engelen LJLPG. Medische staf KU Leuven Gasthuisberg. 2015\.
+
+12\. Engelen LJLPG. MaRS HealthKick 2015:Canada"s largest health startup showcase: May 7, 2015\. In: Toronto; 2015\.
+
+13\. Engelen LJLPG. **_Leergang persoonsgerichte zorg_** Verpleegkundigen. 2015\.
+
+14\. Engelen LJLPG. **_Create the future congres TU TWente_**. 2015\.
+
+15\. Engelen LJLPG. **_Actiz Zorg_**. 2015\.
+
+16\. Engelen LJLPG. **_Imagine workshop digital work_**. 2015\.
+
+17\. Engelen LJLPG. **_Ministerie VWS_**. 2015\.
+
+18\. Engelen LJLPG. **_Long-dagen Longfonds_**. 2015\.
+
+19\. Engelen LJLPG. **_Inspectie Gezondheidszorg_**. 2015\.
+
+20\. Engelen LJLPG. **_Nedtalk Nederland _**| Health Communicator te horen op SublimeFM. SubliemeFM. 2015\.
+
+21\. Engelen LJLPG. **_Multidisciplinair Symposium Hematologie_**. 2015\.
+
+22\. Engelen LJLPG. **_Actua-Zorg:_** Lucien Engelen over technologie in de zorgsector (2015). 2015\.
+
+23\. Engelen LJLPG. **_Jonge Onderzoekersdag _**Werkgr Hoofd/hals tumoren. 2015\.
+
+24\. Engelen LJLPG, **_Zorg & ICT_** Keynote. 2015\.
+
+25\. Engelen LJLPG. **_Tuck Business School Dartmouth._** 2015\.
+
+26\. Engelen LJLPG, **_Health Valley Event 2015\._** 2015\.
+
+27\. Engelen LJLPG. **_Raad van Toezicht, SKU bestuur_**. 2015\.
+
+28\. Engelen LJLPG, **_Zorgnet Vlaanderen (Brussel)_**. 2015\.
+
+29\. Engelen LJLPG. **_TU Eindhoven_**. 2015\.
+
+30\. Engelen LJLPG. Interview **_RTL-z De Nieuwe Economie_**. RTL. 2015\.
+
+31\. Engelen LJLPG, Lezing **_ABN AMRO_**. In:; 2015\.
+
+32\. Engelen LJLPG, **_Innovation for health RAI_**. 2015\.
+
+33\. Engelen LJLPG, . **_Hoffman La Roche Basel._** In:; 2014\.
+
+34\. Engelen LJLPG, . **_V_****_intura Life Sciences Event_** 2014 - Presentation Lucien Engelen. 2014\.
+
+35\. Engelen LJLPG, . **_Rabo Dommelstreek_**. 2014\.
+
+36\. Engelen LJLPG. Lucien Engelen: Real innovation not with the patient but by the patient -**_Dutch Life Sciences Conference_**. dutchlifesciencescom. 2014\.
+
+37\. Engelen LJLPG. Philips: **_Transforming Health with Connected Apps Lucien Engelen LIVE interview Dreamforce_** (2.4 Miljoen kijkers). 2014\.
+
+38\. Engelen LJLPG, . Lezing **_Symponia_**. In:; 2014\.
+
+39\. Engelen LJLPG, . **_Raad voor de Volksgezondheid_**. 2014\.
+
+40\. Engelen LJLPG, . Lezing **_Abbvie_**. 2014\.
+
+41\. Engelen LJLPG, . Lezing **_Roche Zurich_**. 2014\.
+
+42\. VPRO. De patiënt in de hoofdrol. 2014\.
+
+43\. Engelen LJLPG, Lezing **_Roche Berlijn_**. In:; 2014\.
+
+44\. Engelen LJLPG, . Lezing **_Roche Basel_**. 2014\.
+
+45\. Engelen LJLPG, . Lucien Engelen **_Surgical Educational Talks_**. In:; 2013\.
+
+46\. Engelen LJLPG, . **_Asito groep_**. 2013\.
+
+47\. Engelen LJLPG, **_Lezing Noordhof._** In:; 2013\.
+
+48\. Engelen LJLPG, **_Achmea Zorguitkomsten_**. 2013\.
+
+49\. Engelen LJLPG. **_RTL Nieuws item Google Glass in UMCN Operatiekamers_**. 2013\.
+
+50\. Engelen LJLPG. **_Knevel & vd Brink over onderzoek Google Glass_**. NPO. 2013\.
+
+51\. Engelen LJLPG, **_Research in healthcare is without patients: Lucien Engelen at TEDxNijmegen_**. 2013\.
+
+52\. Engelen LJLPG, Lezing **_NTVG_**. 2013\.
+
+53\. Engelen LJLPG, . Lezing **_ZorgNet Vlaanderen_**. In:; 2013\.
+
+54\. Engelen LJLPG, - **_Games for HEalth conference_** Closing Keynote. In:; 2012\.
+
+55\. Engelen LJLPG, Lezing **_TSM Business School_**. 2012\.
+
+56\. Engelen LJLPG, . Lezing **_Microsoft Innovatation Center Belgie_**. 2012\.
+
+57\. Engelen LJLPG, . **_Lezing PWC_**. 2012\.
+
+58\. Engelen LJLPG, **_Lezing VECOZO_**. In:; 2012\.
+
+59\. Engelen LJLPG, . **_E-Health Basel_**. In:; 2012\.
+
+60\. Engelen LJLPG. ZorgIdee : **_Innovaties in de zorg België_**. lifetechlimburgbe. 2011\.
+
+61\. Engelen LJLPG, **_Hogeschool Arnhem en Nijmegen_**. In:; 2011\.
+
+62\. Engelen LJLPG. lifetechlimburg.be. **_lifetechlimburgbe_**. 2011\.
+
+63\. Engelen LJLPG, . **_Lezing Politie Nederland_**. 2011\.
+
+64\. Engelen LJLPG, **_GGZ en ouderenzorg_**, Reed Business. 2011\.
+
+65\. Engelen LJLPG, . **_Congres Zorgbelang_**. 2011\.
+
+66\. Engelen LJLPG, **_Healthworld Oslo_**. In:; 2011\.
+
+67\. Engelen LJLPG, **_Nederlandse Patienten Consumenten Federatie_**. 2011\.
+
+68\. Engelen LJLPG, **_Lezing MedicalPHIT_**. 2011\.
+
+69\. Engelen LJLPG, **_DocCheck Keulen_**. In:; 2011\.
+
+70\. Engelen LJLPG, **_Doctors 2.0(tm) & You Paris_** : Keynote - Lucien Engelen. In:; 2011\.
+
+71\. Engelen LJLPG, . **_MSD_**. In:; 2011\.
+
+72\. Engelen LJLPG, **_VOKA Belgie_**. In:; 2011\.
+
+73\. Engelen LJLPG, Lezing **_Eye for Pharma Lissabon_**. In:; 2011\.
+
+74\. Engelen LJLPG, **_Mossadex_**. 2011\.
+
+75\. Engelen LJLPG. Parnassia Den Haag. **_Parnassia_** Den Haag. 2011\.
+
+76\. Engelen LJLPG, Lezing SFE **_Annual Eyeforpharma_**. In:; 2011\.
+
+77\. Engelen LJLPG, **_Lezing PGGM_**. 2011\.
+
+78\. Engelen LJLPG,**_Coalitie Erbij_**. 2010\.
+
+79\. Engelen LJLPG, **_GGZ en participatiemarkt_**. In:; 2010\.
+
+80\. Engelen LJLPG, . **_Zorgsymposium Belgie_**. 2010\.
+
+81\. Engelen LJLPG, **_Medisch Contact_** Lucien Engelen interview. medisch contact.
+
+**Magazine List**
+
+1\. Brauck M. Leben und Sterben im digitalen Zeitalter **_Der Spiegel_**. Des Spiegel. 2015\.
+
+2\. Baanbrekende innovaties onontkoombaar - **_Skipr_**. skiprnl. 2014\.
+
+3\. Lambregtse C. SERmagazine "de patient komt in de hoofdrol." **_SERmagazine_**. 2014:20-21\.
+
+4\. Engelen LJLPG, . The Way of the Dodo | **_MIT Technology Review._** MIT technology review. 2014\.
+
+5\. Bau T. Interview with Lucien Engelen - mHealth. **_Mobile Health Global_**. 2014\.
+
+6\. Kuijpers J. **_Interview Lucien Engelen_**. 2014\.
+
+7\. de Bruine W. Ik wil deuren openen en mensen verbinden **_Arts & Auto_** 2013
+
+8\. Jacobs C. CFNetworkDownload\_yCZo7Z. **_GGZ Journaal_**. 2012:1-2\.
+
+9\. duynstee R. CFNetworkDownload\_BvplCd. **_Markant Magazine_**. 2011:1-4\.
+
+10\. Engelen LJLPG. **_ICT onderzoek_**. 2010\.
+
+**Newspaper List**
+
+1\. Murray S. **_Financial Times_**.June 17, 2015\.
+
+2\. Turk Y. **_Naar de dokter in Silicon Valley Volkskrant_** April 25, 2105
+
+3\. Turk Y. **_Apps zijn net zo slordig als stappentellers | Tech. Volkskrant._** February 10, 2015\.
+
+4\. **_Radboudumc experimenteert verder met Google Glass. Gelderlander_**. January 21, 2015\.
+
+5\. Derkzen S. **_Baas in eigen Google Glass - Vrij Nederland_**. Vrij Nederland. July 1, 2014\.
+
+6\. Engelen LJLPG, . **_Will Science Meet the Future? _**linkedin. 2013\. https://www.linkedin.com/pulse/20130607221836-19886490-will-science-meet-future. Accessed April 20, 2015\.
+
+7\. **_The Future of Health TEDxMaastricht_**. nrc. March 24, 2012\.
+
+8\. Tucker I. Lucien Engelen: **_how social networks can solve the healthcare crisis. TheGuardian_**. March 4, 2012\.
+
+****
+
+**Broadcast List**
+
+1\. Engelen LJLPG. **_BBC - Horizons - Episode 3: Extending Lives._** wwwbbcnewscom. 2015\.
+
+2\. Engelen LJLPG. **_Nedtalk Nederland | Health Communicator te horen op SublimeFM_**. SubliemeFM. 2015\.
+
+3\. Engelen LJLPG. **_Actua-Zorg: Lucien Engelen over technologie in de zorgsector_** (2015). 2015\.
+
+4\. Engelen LJLPG. **_Interview RTL-z De Nieuwe Economie_**. RTL. 2015\.
+
+5\. Engelen LJLPG. Philips: **_Transforming Health with Connected Apps Lucien Engelen LIVE interview Dreamforce (2.4 Miljoen kijkers)_**. 2014\.
+
+6\. VPRO. **_Tegenlicht documentaire : _****_De patiënt in de hoofdrol_**. 2014\.
+
+7\. Engelen LJLPG. **_RTL Nieuws item Google Glass in UMCN Operatiekamers._** 2013\.
+
+8\. Engelen LJLPG. **_Knevel & vd Brink over onderzoek Google Glass_**. NPO. 2013\.
 
 __
 
 ****
 
-__[][10]
+__[][9]
 
 __
 
@@ -436,5 +664,4 @@ __
 [6]: http://mhealth.jmir.org/about/editorialTeam
 [7]: http://www.igz.nl/
 [8]: http://radboudreshapecenter.com/wpcontent/uploads/2014/06/Rapport_SocialeMedia.pdf
-[9]: goo.gl/p8YeEj
-[10]: https://vimeo.com/radboudumc/backlight
+[9]: https://vimeo.com/radboudumc/backlight
