@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Biography.
-datePublished: '2016-03-13T08:35:14.212Z'
-dateModified: '2016-03-13T08:35:07.537Z'
+datePublished: '2016-03-13T08:42:40.958Z'
+dateModified: '2016-03-13T08:42:37.511Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-biography.md
@@ -159,8 +159,14 @@ Maastricht. **April 8th
 trust.   
 His was the second Dutchmen with a TED talk featured on the famous TED.com platform.
 
-**2014 ****: ****Dutch National TV future-affairs program
-Backlight (Tegenlicht)**
+**2012 -- present  ****Linkedin Influencer.**
+
+**Named one of the initial 150 world thought leaders** : Invited to blog on LinkedIn Today homepages as part of the initial 150 global influencers program. With 600.000+ followers as of January 2016
+
+********
+
+****2014 ****: ****Dutch National TV future-affairs program
+Backlight (Tegenlicht)****
 
 Aired
 a documentary on
@@ -241,15 +247,6 @@ work for inclusive employability.
 
 ****
 
-**2012
--- present  ****Linkedin Influencer.**
-
-Named
-one of the initial 150 world thought leaders : Invited
-to blog on LinkedIn Today homepages as part of the initial 150 global influencers program. With 600.000+ followers as of January 2016
-
-****
-
 **2016  Organizer of conference
 OurFutureHealth May 26th**
 
@@ -278,6 +275,8 @@ Apple : Being on of the only 2 hospitals outside the US to start using Health ki
 **Philips** : First European co-innovation partner Health Suite Digital platform including launch of joint COPD prototype, next Diabetes type 1, more in progress http://goo.gl/RIuIND
 
 **Google** : Was the first European to test Google Glass in Healthcare as per request of Google. [http://goo.gl/R5lNGX][1]
+
+****
 
 **Books List**
 
@@ -418,6 +417,10 @@ Steven Teerenstra, Melvin Samsom, Lisette Schoonhoven. JMIR **[URL: http://www.j
 2013 : **_Toezicht in de 21e eeuw. _**TH van de Belt, H.W. Drewes, **LJLPG Engelen**, A. Huisman, R.B. Kool, L.Schoonhoven. Kwailiteit in zorg 2013;2\.
 
 2012 -- present : **_Blogs in Linkedin's Influencer program_** See list of over 100 blogs (see attached list)
+
+****
+
+****
 
 ****
 
@@ -662,6 +665,8 @@ __
 __
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2478873c-682c-4911-b92b-1bc0f3c80a8b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dc173fe-c45d-43f5-9d85-f0679862eac5.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/64310593-68e3-44df-b977-a5bec11ac3ff.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7506f19d-ca65-45fd-86c1-a9328b4d00ce.png)
 
 [0]: http://goo.gl/g3OzdY
 [1]: http://goo.gl/R5lNGX
