@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://app.thegrid.io/posts/d0bd7d6b-1c51-455b-aa02-dcca3f79a0e6/edit'
 inLanguage: null
 starred: false
 keywords: []
 description: "Was able to set partnerships with i.e.:\_"
-datePublished: '2016-03-13T13:03:12.498Z'
-dateModified: '2016-03-13T13:01:36.087Z'
+datePublished: '2016-03-13T13:37:49.233Z'
+dateModified: '2016-03-13T13:36:56.321Z'
 author: []
 title: 'Successful Partnerships '
 sourcePath: _posts/2016-03-13-successful-partnerships-was-able-to-set-partnerships-with-i.md
@@ -18,7 +19,6 @@ publisher:
   domain: app.thegrid.io
   url: null
   favicon: null
-url: successful-partnerships-was-able-to-set-partnerships-with-i/index.html
 _context: 'http://schema.org'
 _type: Article
 
