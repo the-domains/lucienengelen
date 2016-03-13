@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Biography.
-datePublished: '2016-03-13T08:10:52.391Z'
-dateModified: '2016-03-13T08:10:37.051Z'
+datePublished: '2016-03-13T08:11:01.834Z'
+dateModified: '2016-03-13T08:10:53.969Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-biography.md
@@ -287,7 +287,7 @@ Apple : Being on of the only 2 hospitals outside the US to start using Health ki
 
 3\. Engelen LJLPG, **_A Little Booklet About Health 2.0 _**2010\. http://www.amazon.com/Little-Booklet-About-Health-2-0/dp/9059723961
 
-4\. Engelen LJLPG, et al. **_Health 2.1: the Update. 2010 _**http://www.amazon.com/Health-2-0-update-Lucien-Engelen-ebook/dp/B008AC77F6/ref=asap\_bc?ie=UTF8
+4\. Engelen LJLPG, **_Health 2.1: the Update. 2010 _**http://www.amazon.com/Health-2-0-update-Lucien-Engelen-ebook/dp/B008AC77F6/ref=asap\_bc?ie=UTF8
 
 5\. Engelen LJLPG, **_Een Heel Klein Boekje Over Zorg 2.0_**. Uitgeverij Eburon; 2010 https://www.managementboek.nl/boek/9789059723900/een-heel-klein-boekje-over-zorg-2.0-lucien-engelen
 
