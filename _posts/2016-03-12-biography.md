@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Lucien Engelen has worked since 2007 at the Radboud University Medical\nCenter Nijmegen as Head of the regional emergency healthcare network and\nadvisory to the Executive Board on the (needed) changes of healthcare enhancing\nthe participation of the patients and their informal care in their own disease,\nworking towards raising the level of participation in Health(care), research\nand education. He is founding Director of the\_Radboud REshape Center, that\nacts on the convergence of technology and patient empowerment. Creating\nbreakthrough programs, foresights and products if industry lacks progression\nitself.\_"
-datePublished: '2016-03-13T13:38:39.868Z'
-dateModified: '2016-03-13T13:02:53.342Z'
+datePublished: '2016-03-13T13:39:07.745Z'
+dateModified: '2016-03-13T13:38:51.531Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-biography.md
