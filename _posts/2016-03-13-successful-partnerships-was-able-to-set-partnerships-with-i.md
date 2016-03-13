@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Was able to set partnerships with i.e.:\_"
-datePublished: '2016-03-13T13:44:28.663Z'
-dateModified: '2016-03-13T13:37:58.277Z'
+datePublished: '2016-03-13T13:58:11.554Z'
+dateModified: '2016-03-13T13:57:54.251Z'
 author: []
 title: 'Successful Partnerships '
 sourcePath: _posts/2016-03-13-successful-partnerships-was-able-to-set-partnerships-with-i.md
