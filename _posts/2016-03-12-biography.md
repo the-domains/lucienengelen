@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Biography.
-datePublished: '2016-03-13T08:52:54.290Z'
-dateModified: '2016-03-13T08:52:12.073Z'
+datePublished: '2016-03-13T08:53:07.973Z'
+dateModified: '2016-03-13T08:53:02.965Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-biography.md
