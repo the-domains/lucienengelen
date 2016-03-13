@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Biography.
-datePublished: '2016-03-13T08:01:48.012Z'
-dateModified: '2016-03-13T08:01:03.571Z'
+datePublished: '2016-03-13T08:10:52.391Z'
+dateModified: '2016-03-13T08:10:37.051Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-biography.md
@@ -138,6 +138,8 @@ parties and became CEO
 of the Merged foundation RAV Limburg Noord.
 
 ****
+
+**__**
 
 **_Significant Contributions_**
 
@@ -271,17 +273,26 @@ and the help of startups. www.ourfuturehealth.org
 **Successful Partnerships**
 
 Was able to set partnerships with i.e.:  
-**Apple : Being on of the only 2 hospitals outside the US to start using Health kit from the start.**[][0]
-
-[http://goo.gl/g3OzdY][0]
+Apple : Being on of the only 2 hospitals outside the US to start using Health kit from the start [http://goo.gl/g3OzdY][0]
 
 **Philips** : First European co-innovation partner Health Suite Digital platform including launch of joint COPD prototype, next Diabetes type 1, more in progress http://goo.gl/RIuIND
 
-**Google** : Was the first European to test Google Glass in Healthcare as per request of Google. [][1]
+**Google** : Was the first European to test Google Glass in Healthcare as per request of Google. [http://goo.gl/R5lNGX][1]
 
-[http://goo.gl/R5lNGX][1]
+**Books List**
 
-  
+1\. Engelen LJLPG, **_Ch@nge. In: 19 Key Essays on How Internet Is Changing Our Lives._** 2013:217-232 [https://www.bbvaopenmind.com/en/book/19-key-essays-on-how-internet-is-changing-our-lives/][2]
+
+2\. Engelen LJLPG,Cloïn C, Peeters P-H. Managementbib.com - **_De Patiënt Als Partner : De Zoektocht Van Het UMC St. Radboud_**. managementbib.com; 2012 [http://www.bsl.nl/shop/de-patient-als-partner-9789031398355.html][3]
+
+3\. Engelen LJLPG, **_A Little Booklet About Health 2.0 _**2010\. http://www.amazon.com/Little-Booklet-About-Health-2-0/dp/9059723961
+
+4\. Engelen LJLPG, et al. **_Health 2.1: the Update. 2010 _**http://www.amazon.com/Health-2-0-update-Lucien-Engelen-ebook/dp/B008AC77F6/ref=asap\_bc?ie=UTF8
+
+5\. Engelen LJLPG, **_Een Heel Klein Boekje Over Zorg 2.0_**. Uitgeverij Eburon; 2010 https://www.managementboek.nl/boek/9789059723900/een-heel-klein-boekje-over-zorg-2.0-lucien-engelen
+
+****
+
 **Academic Papers:**
 
 _**2016 ****(****expected****) Online Platforms for Monitoring
@@ -362,7 +373,7 @@ URL: http://www.jmir.org/2014/2/e56/
 **_2013 : Internet and social media for
 health-related information and communication in health care preferences
 of the Dutch general population. _**Tom H Van de Belt, **Lucien JLPG Engelen**, Sivera AA Berben,
-Steven Teerenstra, Melvin Samsom, Lisette Schoonhoven. JMIR **[URL: http://www.jmir.org/2013/10/e220][2]**
+Steven Teerenstra, Melvin Samsom, Lisette Schoonhoven. JMIR **[URL: http://www.jmir.org/2013/10/e220][4]**
 
 ****
 
@@ -378,7 +389,7 @@ Steven Teerenstra, Melvin Samsom, Lisette Schoonhoven. JMIR **[URL: http://www.j
 
 2011 : Van De Belt TH, **Engelen LJ**, Berben SAA, Schoonhoven L. **_Social Media in European Hospitals: A Descriptive Study_**. Medicine 2.0 Conference 2011, Stanford, United States. http://www.medicine20congress.com/ocs/index.php/med/med2011/paper/view/576
 
-2010 : Van De Belt TH, **Engelen LJ**, Berben SAA, Schoonhoven L, **_Definition of Health 2.0 and Medicine 2.0: A Systematic Review,_** Medicine 2.0 Congress, Maastricht, 2010, [http://www.medicine20congress.com/ocs/index.php/med/med2010/paper/view/455][3]
+2010 : Van De Belt TH, **Engelen LJ**, Berben SAA, Schoonhoven L, **_Definition of Health 2.0 and Medicine 2.0: A Systematic Review,_** Medicine 2.0 Congress, Maastricht, 2010, [http://www.medicine20congress.com/ocs/index.php/med/med2010/paper/view/455][5]
 
 **Participation in Scientific Review Committees**
 
@@ -386,11 +397,11 @@ Steven Teerenstra, Melvin Samsom, Lisette Schoonhoven. JMIR **[URL: http://www.j
 
 2014 - present : **_Member Advisory Board BMJ Patient panels._** http://www.bmj.com/about-bmj/advisory-panels/patient-panel-members/lucien-engelen
 
-2015 - present: **_Member of editorial board JMIR Journal of Medical Internet Research_** edition mHealth and uHealth [http://mhealth.jmir.org/about/editorialTeam][4][][4]
+2015 - present: **_Member of editorial board JMIR Journal of Medical Internet Research_** edition mHealth and uHealth [http://mhealth.jmir.org/about/editorialTeam][6][][6]
 
 **Published Reports**
 
-**2013 : **Report for the Dutch Healthcare Inspectorate [www.igz.nl][5]**_Sociale Media als informatiebron voor Toezicht op de Gezondheidszorg._** TH van de Belt, LM Verhoef,Msc **LJLPG Engelen**, L Schoonhoven, RB Kool. URL:[http://radboudreshapecenter.com/wpcontent/uploads/2014/06/Rapport\_SocialeMedia.pdf][6]
+**2013 : **Report for the Dutch Healthcare Inspectorate [www.igz.nl][7]**_Sociale Media als informatiebron voor Toezicht op de Gezondheidszorg._** TH van de Belt, LM Verhoef,Msc **LJLPG Engelen**, L Schoonhoven, RB Kool. URL:[http://radboudreshapecenter.com/wpcontent/uploads/2014/06/Rapport\_SocialeMedia.pdf][8]
 
 **2010:**Report for the Emergency Healthcare Network Haagsma J, Scholten A, Van De Belt T, **Engelen L**, Van De Berg K, Berben S, Schoonhoven L. **_Pilot Meetweek Acute Zorgregio Oost: Pilotstudie naar de acute zorgvraag en aanbod in Acute Zorgregio Oost._** 2010\.
 
@@ -400,15 +411,15 @@ Steven Teerenstra, Melvin Samsom, Lisette Schoonhoven. JMIR **[URL: http://www.j
 
 2012 -- present : Blogs in Linkedin's Influencer program See list of over 100 blogs (see attached list)
 
-[][7]
+[][9]
 
-[b][7]
+[b][9]
 
 __
 
 ****
 
-__[][8]
+__[][10]
 
 __
 
@@ -418,10 +429,12 @@ __
 
 [0]: http://goo.gl/g3OzdY
 [1]: http://goo.gl/R5lNGX
-[2]: http://www.jmir.org/2013/10/e220
-[3]: http://www.medicine20congress.com/ocs/index.php/med/med2010/paper/view/455
-[4]: http://mhealth.jmir.org/about/editorialTeam
-[5]: http://www.igz.nl/
-[6]: http://radboudreshapecenter.com/wpcontent/uploads/2014/06/Rapport_SocialeMedia.pdf
-[7]: goo.gl/p8YeEj
-[8]: https://vimeo.com/radboudumc/backlight
+[2]: https://www.bbvaopenmind.com/en/book/19-key-essays-on-how-internet-is-changing-our-lives/
+[3]: http://www.bsl.nl/shop/de-patient-als-partner-9789031398355.html
+[4]: http://www.jmir.org/2013/10/e220
+[5]: http://www.medicine20congress.com/ocs/index.php/med/med2010/paper/view/455
+[6]: http://mhealth.jmir.org/about/editorialTeam
+[7]: http://www.igz.nl/
+[8]: http://radboudreshapecenter.com/wpcontent/uploads/2014/06/Rapport_SocialeMedia.pdf
+[9]: goo.gl/p8YeEj
+[10]: https://vimeo.com/radboudumc/backlight
