@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Lucien Engelen has worked since 2007 at the Radboud University Medical\nCenter Nijmegen as Head of the regional emergency healthcare network and\nadvisory to the Executive Board on the (needed) changes of healthcare enhancing\nthe participation of the patients and their informal care in their own disease,\nworking towards raising the level of participation in Health(care), research\nand education. He is founding Director of the\_Radboud REshape Center, that\nacts on the convergence of technology and patient empowerment. Creating\nbreakthrough programs, foresights and products if industry lacks progression\nitself.\_"
-datePublished: '2016-03-13T13:39:07.745Z'
-dateModified: '2016-03-13T13:38:51.531Z'
+datePublished: '2016-03-13T13:44:48.027Z'
+dateModified: '2016-03-13T13:40:08.628Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-biography.md
@@ -156,90 +156,6 @@ Apple : Being on of the only 2 hospitals outside the US to start using Health ki
 
 ****
 
-**Academic Papers:**
-
-_**2016 ****(****expected****) Online Platforms for Monitoring
-Personal Health: A Scoping Review. **_
-
-Tom
-H van de Belt, PhD; Mariska Weenk, MD MSc; Ester Rake, MSc; **Lucien JLPG Engelen** ; Patrick M
-Archambault, MD, FRCPC; H van Goor, MD, PhD, FRCPC; Bas Bredie, MD, PhD;
-Marleen MHJ van Gelder, PhD. _(in
-progress)_
-
-**_Personalized
-Consent Flow in Contemporary Data Sharing for Medical Research. _**Ester
-Rake, MSc; Marleen MHJ van Gelder, PhD; David Grim, MSc; Barend Heeren, MSc. **Lucien JLPG Engelen; **Tom H van de
-Belt, PhD_(submitted)_
-
-**_How to recruit participants into
-observational studies? A systematic review and meta-analysis. _**Marleen M H J van Gelder, PhD;
-Richelle Vlenterie, PhD candidate **;Lucien J L P G Engelen**; Alina
-Vrieling, PhD;Tom H van de Belt, PhD _(In progress)._
-
-****
-
-**_REbuild2REsearch: a novel
-platform to use Apple's ResearchKit for medical research. _**Van Gelder MMHJ, **Engelen
-LJLPG, ** Sondag T, van de Belt TH. _(In progress, will be submitted after
-launch platform May 26th)_
-
-**2016****:**
-
-_**A new cuffless device measuring blood
-pressure, a real life study. **_Tessa S
-Schoot1, MD; Mariska Weenk, MD; Tom H van de Belt, PhD; **Lucien JLPG **URL: http://dx.doi.org/10.2196/jmir.5414
-
-****
-
-**_Stress measurement in
-surgeons and residents using a smart patch. _**Mariska
-Weenk, Alexander PB Alken, **Lucien JLPG
-Engelen**; Sebastian JH Bredie, Tom H van de Belt, P, Harry van Goor. _(article submitted)_
-
-****
-
-**_Stress measurement in
-surgeons and residents using a smart patch. _**Mariska
-Weenk, Alexander
-PB, Alken, **Lucien JLPG Engelen**; Sebastian JH Bredie, Tom H van de Belt, Harry
-van Goor. Tides of stress in
-surgery._(Abstract, Association of Surgical Education (ASE) 2015)_
-
-****
-
-_**2015 ****: **_
-
-_**"**__**What Is eHealth": Time for An
-Update?**,****_A Boogerd, T Arts**, Lucien JLPG Engelen, **TH van de Belt. JMIR Research Protocols 2015;4:e29\. URL: http://www.researchprotocols.org/2015/1/e29/
-
-**_Using patient
-experiences on Dutch social media to supervise health care services _****_exploratory study. _**Tom H
-van de Belt, **Lucien JLPG Engelen ,
-**Lise M Verhoef, Marian JA van der Weide, Lisette****Schoonhoven,
-Rudolf B Kool. JMIR 2015;17:1\. URL: http://www.jmir.org/2015/1/e7/
-
-****
-
-_**2014 ****: ****Social media and rating sites as
-tools to understanding quality of care: a scoping review. **_Lise M.Verhoef,
-Tom H van de Belt, **Lucien JLPG Engelen**,
-Lisette Schoonhoven, Rudolf B Kool. JMIR 2014;16:e56\.
-URL: http://www.jmir.org/2014/2/e56/
-
-****
-
-****
-
-**_2013 : Internet and social media for
-health-related information and communication in health care preferences
-of the Dutch general population. _**Tom H Van de Belt, **Lucien JLPG Engelen**, Sivera AA Berben,
-Steven Teerenstra, Melvin Samsom, Lisette Schoonhoven. JMIR **[URL: http://www.jmir.org/2013/10/e220][2]**
-
-****
-
-**_2__012 : Use of social media by Western European hospitals a longitudinal study_**. Tom H Van de Belt, Sivera AA Berben, Melvin Samsom, **Lucien JLPG Engelen**, Lisette Schoonhoven. JMIR 2012;14:e61http://www.jmir.org/2012/3/e61/ 
-
 ****
 
 **Academic conference abstracts**
@@ -252,7 +168,7 @@ Steven Teerenstra, Melvin Samsom, Lisette Schoonhoven. JMIR **[URL: http://www.j
 
 2011 : Van De Belt TH, **Engelen LJ**, Berben SAA, Schoonhoven L. **_Social Media in European Hospitals: A Descriptive Study_**. Medicine 2.0 Conference 2011, Stanford, United States. http://www.medicine20congress.com/ocs/index.php/med/med2011/paper/view/576
 
-2010 : Van De Belt TH, **Engelen LJ**, Berben SAA, Schoonhoven L, **_Definition of Health 2.0 and Medicine 2.0: A Systematic Review,_** Medicine 2.0 Congress, Maastricht, 2010, [http://www.medicine20congress.com/ocs/index.php/med/med2010/paper/view/455][3]
+2010 : Van De Belt TH, **Engelen LJ**, Berben SAA, Schoonhoven L, **_Definition of Health 2.0 and Medicine 2.0: A Systematic Review,_** Medicine 2.0 Congress, Maastricht, 2010, [http://www.medicine20congress.com/ocs/index.php/med/med2010/paper/view/455][2]
 
 ****
 
@@ -262,7 +178,7 @@ Steven Teerenstra, Melvin Samsom, Lisette Schoonhoven. JMIR **[URL: http://www.j
 
 2014 - present : **_Member Advisory Board BMJ Patient panels._** http://www.bmj.com/about-bmj/advisory-panels/patient-panel-members/lucien-engelen
 
-2015 - present: **_Member of editorial board JMIR Journal of Medical Internet Research_** edition mHealth and uHealth [http://mhealth.jmir.org/about/editorialTeam][4][][4]
+2015 - present: **_Member of editorial board JMIR Journal of Medical Internet Research_** edition mHealth and uHealth [http://mhealth.jmir.org/about/editorialTeam][3][][3]
 
 ****
 
@@ -270,7 +186,7 @@ Steven Teerenstra, Melvin Samsom, Lisette Schoonhoven. JMIR **[URL: http://www.j
 
 **Published Reports**
 
-**2013 : **Report for the Dutch Healthcare Inspectorate [www.igz.nl][5]**_Sociale Media als informatiebron voor Toezicht op de Gezondheidszorg._** TH van de Belt, LM Verhoef,Msc **LJLPG Engelen**, L Schoonhoven, RB Kool. URL:[http://radboudreshapecenter.com/wpcontent/uploads/2014/06/Rapport\_SocialeMedia.pdf][6]
+**2013 : **Report for the Dutch Healthcare Inspectorate [www.igz.nl][4]**_Sociale Media als informatiebron voor Toezicht op de Gezondheidszorg._** TH van de Belt, LM Verhoef,Msc **LJLPG Engelen**, L Schoonhoven, RB Kool. URL:[http://radboudreshapecenter.com/wpcontent/uploads/2014/06/Rapport\_SocialeMedia.pdf][5]
 
 **2010:**Report for the Emergency Healthcare Network Haagsma J, Scholten A, Van De Belt T, **Engelen L**, Van De Berg K, Berben S, Schoonhoven L. **_Pilot Meetweek Acute Zorgregio Oost: Pilotstudie naar de acute zorgvraag en aanbod in Acute Zorgregio Oost._** 2010\.
 
@@ -543,7 +459,7 @@ __
 
 ****
 
-__[][7]
+__[][6]
 
 __
 
@@ -554,9 +470,8 @@ __
 
 [0]: http://goo.gl/g3OzdY
 [1]: http://goo.gl/R5lNGX
-[2]: http://www.jmir.org/2013/10/e220
-[3]: http://www.medicine20congress.com/ocs/index.php/med/med2010/paper/view/455
-[4]: http://mhealth.jmir.org/about/editorialTeam
-[5]: http://www.igz.nl/
-[6]: http://radboudreshapecenter.com/wpcontent/uploads/2014/06/Rapport_SocialeMedia.pdf
-[7]: https://vimeo.com/radboudumc/backlight
+[2]: http://www.medicine20congress.com/ocs/index.php/med/med2010/paper/view/455
+[3]: http://mhealth.jmir.org/about/editorialTeam
+[4]: http://www.igz.nl/
+[5]: http://radboudreshapecenter.com/wpcontent/uploads/2014/06/Rapport_SocialeMedia.pdf
+[6]: https://vimeo.com/radboudumc/backlight
