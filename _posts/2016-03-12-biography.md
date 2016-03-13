@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Biography.
-datePublished: '2016-03-13T08:53:07.973Z'
-dateModified: '2016-03-13T08:53:02.965Z'
+datePublished: '2016-03-13T10:29:27.528Z'
+dateModified: '2016-03-13T09:49:56.803Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-biography.md
@@ -407,11 +407,11 @@ Steven Teerenstra, Melvin Samsom, Lisette Schoonhoven. JMIR **[URL: http://www.j
 2012 -- present : **_Blogs in Linkedin's Influencer program_** See list of over 100 blogs (see attached list)
 
 ****
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2478873c-682c-4911-b92b-1bc0f3c80a8b.jpg)
 
 **Books List**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2478873c-682c-4911-b92b-1bc0f3c80a8b.jpg)
 
-1\. Engelen LJLPG,**_Ch@nge. In: 19 Key Essays on How Internet Is Changing Our Lives._**2013:217-232 https://www.bbvaopenmind.com/en/book/19-key-essays-on-how-internet-is-changing-our-lives/
+1\. Engelen LJLPG, **_Ch@nge. In: 19 Key Essays on How Internet Is Changing Our Lives._**2013:217-232 https://www.bbvaopenmind.com/en/book/19-key-essays-on-how-internet-is-changing-our-lives/
 
 2\. Engelen LJLPG,Cloïn C, Peeters P-H. Managementbib.com -**_De Patiënt Als Partner : De Zoektocht Van Het UMC St. Radboud_**. managementbib.com; 2012 http://www.bsl.nl/shop/de-patient-als-partner-9789031398355.html
 
@@ -428,9 +428,9 @@ Steven Teerenstra, Melvin Samsom, Lisette Schoonhoven. JMIR **[URL: http://www.j
 ****
 
 ****
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dc173fe-c45d-43f5-9d85-f0679862eac5.png)
 
 **Lectures List**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dc173fe-c45d-43f5-9d85-f0679862eac5.png)
 
 1\. Engelen LJLPG. Cannes Lions International Festival of Creativity. Lions Health Cannes. 2015\.
 
