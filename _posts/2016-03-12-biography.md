@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Biography.
-datePublished: '2016-03-13T07:43:35.842Z'
-dateModified: '2016-03-13T07:42:56.146Z'
+datePublished: '2016-03-13T07:57:35.626Z'
+dateModified: '2016-03-13T07:57:26.922Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-biography.md
@@ -352,11 +352,47 @@ Steven Teerenstra, Melvin Samsom, Lisette Schoonhoven. JMIR **[URL: http://www.j
 
 **_2__012 : Use of social media by Western European hospitals a longitudinal study_**. Tom H Van de Belt, Sivera AA Berben, Melvin Samsom, **Lucien JLPG Engelen**, Lisette Schoonhoven. JMIR 2012;14:e61http://www.jmir.org/2012/3/e61/ 
 
+**Academic conference abstracts**
+
+2016 : M. Weenk, A. P. Alken , **L.J. Engelen** , B. J. Bredie , T. H. Van De Belt , H. Van Goor. **_Mental Stress of Surgeons and Residents at Daily Activities_.** Annual Academic Surgical Congress, Jacksonville, Florida. URL: http://academicsurgicalcongress.org/pdfs/ASC2016\_Program.pdf
+
+2015 : Marleen M.H.J. van Gelder, Richelle Vlenterie, **Lucien J.L.P.G. Engelen**, Alina Vrieling, Tom H. van de Belt. **How to recruit participants into observational studies? A systematic review.** Healthy Living 2015, Maastricht, the Netherlands. URL: http://www.healthyliving2015.nl/upload/abstractbook\_210615.pdf
+
+2013 : Tom H van de Belt, **Lucien JLPG Engelen**, Sivera AA Berben, Melvin Samsom, Lisette Schoonhoven. **_Using Social Media in Healthcare: Preferences of the General Population_** Medicine 2.0 Conference 2013, London, United Kingdom. http://www.medicine20congress.com/ocs/index.php/med/med2013/paper/view/1757
+
+2011 : Van De Belt TH, **Engelen LJ**, Berben SAA, Schoonhoven L. **_Social Media in European Hospitals: A Descriptive Study_**. Medicine 2.0 Conference 2011, Stanford, United States. http://www.medicine20congress.com/ocs/index.php/med/med2011/paper/view/576
+
+2010 : Van De Belt TH, **Engelen LJ**, Berben SAA, Schoonhoven L, **_Definition of Health 2.0 and Medicine 2.0: A Systematic Review,_** Medicine 2.0 Congress, Maastricht, 2010, [http://www.medicine20congress.com/ocs/index.php/med/med2010/paper/view/455][1]
+
+**Participation in Scientific Review Committees**
+
+2010 : **_Co-Organiser Medicine 2.0 scientific conference_** Maastricht 2010 (with RIVM en UT Twente)
+
+2014 - present : **_Member Advisory Board BMJ Patient panels._** http://www.bmj.com/about-bmj/advisory-panels/patient-panel-members/lucien-engelen
+
+2015 - present: **_Member of editorial board JMIR Journal of Medical Internet Research_** edition mHealth and uHealth [http://mhealth.jmir.org/about/editorialTeam][2][][2]
+
+**Published Reports**
+
+**2013 : **Report for the Dutch Healthcare Inspectorate [www.igz.nl][3]**_Sociale Media als informatiebron voor Toezicht op de Gezondheidszorg._** TH van de Belt, LM Verhoef,Msc **LJLPG Engelen**, L Schoonhoven, RB Kool. URL:[http://radboudreshapecenter.com/wpcontent/uploads/2014/06/Rapport\_SocialeMedia.pdf][4]
+
+**2010:**Report for the Emergency Healthcare Network Haagsma J, Scholten A, Van De Belt T, **Engelen L**, Van De Berg K, Berben S, Schoonhoven L. **_Pilot Meetweek Acute Zorgregio Oost: Pilotstudie naar de acute zorgvraag en aanbod in Acute Zorgregio Oost._** 2010\.
+
+**Non Academic Publications**
+
+2013 : **_Toezicht in de 21e eeuw. _**TH van de Belt, H.W. Drewes, **LJLPG Engelen**, A. Huisman, R.B. Kool, L.Schoonhoven. Kwailiteit in zorg 2013;2\. 
+
+2012 -- present : Blogs in Linkedin's Influencer program See list of over 100 blogs (see attached list)
+
+[][5]
+
+[b][5]
+
 __
 
 ****
 
-__[][1]
+__[][6]
 
 __
 
@@ -365,4 +401,9 @@ __
 __
 
 [0]: http://www.jmir.org/2013/10/e220
-[1]: https://vimeo.com/radboudumc/backlight
+[1]: http://www.medicine20congress.com/ocs/index.php/med/med2010/paper/view/455
+[2]: http://mhealth.jmir.org/about/editorialTeam
+[3]: http://www.igz.nl/
+[4]: http://radboudreshapecenter.com/wpcontent/uploads/2014/06/Rapport_SocialeMedia.pdf
+[5]: goo.gl/p8YeEj
+[6]: https://vimeo.com/radboudumc/backlight
