@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Biography.
-datePublished: '2016-03-13T10:29:27.528Z'
-dateModified: '2016-03-13T09:49:56.803Z'
+datePublished: '2016-03-13T12:26:14.892Z'
+dateModified: '2016-03-13T12:26:12.673Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-biography.md
@@ -23,8 +23,6 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0097cb4f-4639-429d-9dc7-86160ad31f5d.jpg)
-
-Biography.
 
 Lucien Engelen has worked since 2007 at the Radboud University Medical
 Center Nijmegen as Head of the regional emergency healthcare network and
@@ -140,128 +138,6 @@ of the Merged foundation RAV Limburg Noord.
 ****
 
 **__**
-
-**_Significant Contributions_**
-
-_****_
-
-**2011- 2013 : ****Initiated 5
-TEDx-conferences**
-
-Each
-1000 seats. **TEDxMaastricht** ever was held in 2011 : 1000 people in
-Audience, 20.000 by
-Livestreams. **TEDxMaastricht April 2nd 2012**, was the second edition again in
-Maastricht. **April 8th
-2013** the third edition was held in our University's hometown Nijmegen,
-"Accelerating fromage 0 to
-110" . The Radboud University' **TEDxRadboudU May 23rd** was on REgaining
-trust.   
-His was the second Dutchmen with a TED talk featured on the famous TED.com platform.
-
-**2012 -- present  ****Linkedin Influencer.**
-
-**Named one of the initial 150 world thought leaders** : Invited to blog on LinkedIn Today homepages as part of the initial 150 global influencers program. With 600.000+ followers as of January 2016
-
-********
-
-****2014 ****: ****Dutch National TV future-affairs program
-Backlight (Tegenlicht)****
-
-Aired
-a documentary on
-his vision and approach to change healthcare into a more participatory environment
-in the REshape Innovation Center at Radboud University Medical Center
-Nijmegen. https://vimeo.com/radboudumc/backlight
-
-****
-
-**2015 ****: ****Awarded with the Radboud Medal 2015**
-
-Once
-a year the prestigious Radboud Medal is being awarded as the highest honor of
-Radboudumc to
-someone who has had an extraordinary impact in the enrollment of the strategy
-of Radboud University
-Medical Center in the fields of academic medicine and healthcare. 
-
-****
-
-**2015 ****: ****Awarded with the TIM 2015 as most
-inspirational leader in IT**
-
-« Lucien
-Engelen, dares to put the patient fully central place within the care process,
-actually as partners
-in their own care. Within the Nijmegen hospital leadership he exemplifies the
-so-called REshape-way,
-that combines both people and ideas and uses technologies to glue those
-together. Although
-he works with a small core team, his organically way of organizing and
-disruption of existing
-processes is energizing.He is an
-inspiration for all : stakeholders: patients and their families,
-doctors, nurses, students and policymakers. "It's
-not about me, nor my team. Together, there are thousands of us", said
-Engelen ".A striking initiative
-is their ecosystem Hereismydata. Together with Philips and with the help of
-cloud software provider
-Salesforce they developed a combination of a personal health record, an online community,
-as well as connectivity platform for medical equipment, wearables and apps,
-together with
-patients and their social circle. A great example of stimulating an 'patient
-engagement in the care
-process. Lucien Engelen doesn't innovate to make money; the innovative spirit
-to improve the health
-of many prevails. It is also a bold statement: a hospital patient that actually
-dares to approach
-the patient as a partner.»
-
-****
-
-**2015****: Awarded with ****the Prof. Dr. Michael-van Vloten Medal May
-2015 for the Michaël Lecture**
-
-Since
-1990 the Michael van Vloten Foundation in close collaboration with the Dutch
-Surgical Society from
-time to time sets stage for the "Dr. Michael Lecture". For this the foundation
-awards a prestigious
-foreign surgeon with the "Dr Michael Medal" and invites him or her cordially to
-the Netherlands
-to give a plenary lecture during the
-annual Dutch Surgical Congress.
-
-****
-
-**2015 ****: ****Honored to give the first ever Prof. Dr.
-Frans Nijhuis lecture October 2015\.**
-
-Invited
-by the LOCUS network to address members on behalf of the work the late Frans
-Nijhuis did on
-the aspect of inclusive employability. Based on the shift happening in
-healthcare, he pointed out the
-opportunities from hospital to home, into to similar processes from home to
-work for inclusive employability.
-
-****
-
-**2016  Organizer of conference
-OurFutureHealth May 26th**
-
-During
-'OurFutureHealth' we will host a great array of speakers including patients, doctors & nurses, researchers, technologists
-and musicians. Already confirmed are experts in their field like Dutch Minister of Health
-Edith Schippers, Frans van Houten CEO Royal Philips, Peter Hinssen (writer The new normal), Daniel
-Kraft (Singularity University), Jos de Blok (Buurtzorg), Oscar Kneppkens (Rockstart) and the and
-both the chairs of our Patients Advisory Council Jopie Verhoeven and Eva Eikhorst. )
-
-Hosting simultaneously a National track as well as a Global track (touching
-base in 20-30 cities via the internet) it is a Worlds first conference like
-this. The theme of the
-conference will be : how to create sustainable health(care) with \#patientsincluded innovation
-and the help of startups. www.ourfuturehealth.org 
 
 ****
 
