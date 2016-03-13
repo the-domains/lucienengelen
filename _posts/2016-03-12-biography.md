@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Biography.
-datePublished: '2016-03-13T08:25:51.645Z'
-dateModified: '2016-03-13T08:25:47.896Z'
+datePublished: '2016-03-13T08:35:07.264Z'
+dateModified: '2016-03-13T08:35:05.251Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-biography.md
@@ -281,9 +281,9 @@ Apple : Being on of the only 2 hospitals outside the US to start using Health ki
 
 **Books List**
 
-1\. Engelen LJLPG, **_Ch@nge. In: 19 Key Essays on How Internet Is Changing Our Lives._** 2013:217-232 [https://www.bbvaopenmind.com/en/book/19-key-essays-on-how-internet-is-changing-our-lives/][2]
+1\. Engelen LJLPG, **_Ch@nge. In: 19 Key Essays on How Internet Is Changing Our Lives._** 2013:217-232 https://www.bbvaopenmind.com/en/book/19-key-essays-on-how-internet-is-changing-our-lives/
 
-2\. Engelen LJLPG,Cloïn C, Peeters P-H. Managementbib.com - **_De Patiënt Als Partner : De Zoektocht Van Het UMC St. Radboud_**. managementbib.com; 2012 [http://www.bsl.nl/shop/de-patient-als-partner-9789031398355.html][3]
+2\. Engelen LJLPG,Cloïn C, Peeters P-H. Managementbib.com - **_De Patiënt Als Partner : De Zoektocht Van Het UMC St. Radboud_**. managementbib.com; 2012 http://www.bsl.nl/shop/de-patient-als-partner-9789031398355.html
 
 3\. Engelen LJLPG, **_A Little Booklet About Health 2.0 _**2010\. http://www.amazon.com/Little-Booklet-About-Health-2-0/dp/9059723961
 
@@ -325,9 +325,7 @@ launch platform May 26th)_
 
 _**A new cuffless device measuring blood
 pressure, a real life study. **_Tessa S
-Schoot1, MD; Mariska Weenk, MD; Tom H van de Belt, PhD; **Lucien JLPG  **.
-
-URL: http://dx.doi.org/10.2196/jmir.5414
+Schoot1, MD; Mariska Weenk, MD; Tom H van de Belt, PhD; **Lucien JLPG **URL: http://dx.doi.org/10.2196/jmir.5414
 
 ****
 
@@ -373,11 +371,13 @@ URL: http://www.jmir.org/2014/2/e56/
 **_2013 : Internet and social media for
 health-related information and communication in health care preferences
 of the Dutch general population. _**Tom H Van de Belt, **Lucien JLPG Engelen**, Sivera AA Berben,
-Steven Teerenstra, Melvin Samsom, Lisette Schoonhoven. JMIR **[URL: http://www.jmir.org/2013/10/e220][4]**
+Steven Teerenstra, Melvin Samsom, Lisette Schoonhoven. JMIR **[URL: http://www.jmir.org/2013/10/e220][2]**
 
 ****
 
 **_2__012 : Use of social media by Western European hospitals a longitudinal study_**. Tom H Van de Belt, Sivera AA Berben, Melvin Samsom, **Lucien JLPG Engelen**, Lisette Schoonhoven. JMIR 2012;14:e61http://www.jmir.org/2012/3/e61/ 
+
+****
 
 **Academic conference abstracts**
 
@@ -389,7 +389,9 @@ Steven Teerenstra, Melvin Samsom, Lisette Schoonhoven. JMIR **[URL: http://www.j
 
 2011 : Van De Belt TH, **Engelen LJ**, Berben SAA, Schoonhoven L. **_Social Media in European Hospitals: A Descriptive Study_**. Medicine 2.0 Conference 2011, Stanford, United States. http://www.medicine20congress.com/ocs/index.php/med/med2011/paper/view/576
 
-2010 : Van De Belt TH, **Engelen LJ**, Berben SAA, Schoonhoven L, **_Definition of Health 2.0 and Medicine 2.0: A Systematic Review,_** Medicine 2.0 Congress, Maastricht, 2010, [http://www.medicine20congress.com/ocs/index.php/med/med2010/paper/view/455][5]
+2010 : Van De Belt TH, **Engelen LJ**, Berben SAA, Schoonhoven L, **_Definition of Health 2.0 and Medicine 2.0: A Systematic Review,_** Medicine 2.0 Congress, Maastricht, 2010, [http://www.medicine20congress.com/ocs/index.php/med/med2010/paper/view/455][3]
+
+****
 
 **Participation in Scientific Review Committees**
 
@@ -397,13 +399,15 @@ Steven Teerenstra, Melvin Samsom, Lisette Schoonhoven. JMIR **[URL: http://www.j
 
 2014 - present : **_Member Advisory Board BMJ Patient panels._** http://www.bmj.com/about-bmj/advisory-panels/patient-panel-members/lucien-engelen
 
-2015 - present: **_Member of editorial board JMIR Journal of Medical Internet Research_** edition mHealth and uHealth [http://mhealth.jmir.org/about/editorialTeam][6][][6]
+2015 - present: **_Member of editorial board JMIR Journal of Medical Internet Research_** edition mHealth and uHealth [http://mhealth.jmir.org/about/editorialTeam][4][][4]
+
+****
 
 ****
 
 **Published Reports**
 
-**2013 : **Report for the Dutch Healthcare Inspectorate [www.igz.nl][7]**_Sociale Media als informatiebron voor Toezicht op de Gezondheidszorg._** TH van de Belt, LM Verhoef,Msc **LJLPG Engelen**, L Schoonhoven, RB Kool. URL:[http://radboudreshapecenter.com/wpcontent/uploads/2014/06/Rapport\_SocialeMedia.pdf][8]
+**2013 : **Report for the Dutch Healthcare Inspectorate [www.igz.nl][5]**_Sociale Media als informatiebron voor Toezicht op de Gezondheidszorg._** TH van de Belt, LM Verhoef,Msc **LJLPG Engelen**, L Schoonhoven, RB Kool. URL:[http://radboudreshapecenter.com/wpcontent/uploads/2014/06/Rapport\_SocialeMedia.pdf][6]
 
 **2010:**Report for the Emergency Healthcare Network Haagsma J, Scholten A, Van De Belt T, **Engelen L**, Van De Berg K, Berben S, Schoonhoven L. **_Pilot Meetweek Acute Zorgregio Oost: Pilotstudie naar de acute zorgvraag en aanbod in Acute Zorgregio Oost._** 2010\.
 
@@ -411,11 +415,11 @@ Steven Teerenstra, Melvin Samsom, Lisette Schoonhoven. JMIR **[URL: http://www.j
 
 **Non Academic Publications**
 
-2013 : **_Toezicht in de 21e eeuw. _**TH van de Belt, H.W. Drewes, **LJLPG Engelen**, A. Huisman, R.B. Kool, L.Schoonhoven. Kwailiteit in zorg 2013;2\. 
-
-.
+2013 : **_Toezicht in de 21e eeuw. _**TH van de Belt, H.W. Drewes, **LJLPG Engelen**, A. Huisman, R.B. Kool, L.Schoonhoven. Kwailiteit in zorg 2013;2\.
 
 2012 -- present : **_Blogs in Linkedin's Influencer program_** See list of over 100 blogs (see attached list)
+
+****
 
 ****
 
@@ -625,6 +629,8 @@ Steven Teerenstra, Melvin Samsom, Lisette Schoonhoven. JMIR **[URL: http://www.j
 
 ****
 
+****
+
 **Broadcast List**
 
 1\. Engelen LJLPG. **_BBC - Horizons - Episode 3: Extending Lives._** wwwbbcnewscom. 2015\.
@@ -647,21 +653,21 @@ __
 
 ****
 
-__[][9]
+__[][7]
 
 __
 
 ****
 
 __
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2478873c-682c-4911-b92b-1bc0f3c80a8b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dc173fe-c45d-43f5-9d85-f0679862eac5.png)
 
 [0]: http://goo.gl/g3OzdY
 [1]: http://goo.gl/R5lNGX
-[2]: https://www.bbvaopenmind.com/en/book/19-key-essays-on-how-internet-is-changing-our-lives/
-[3]: http://www.bsl.nl/shop/de-patient-als-partner-9789031398355.html
-[4]: http://www.jmir.org/2013/10/e220
-[5]: http://www.medicine20congress.com/ocs/index.php/med/med2010/paper/view/455
-[6]: http://mhealth.jmir.org/about/editorialTeam
-[7]: http://www.igz.nl/
-[8]: http://radboudreshapecenter.com/wpcontent/uploads/2014/06/Rapport_SocialeMedia.pdf
-[9]: https://vimeo.com/radboudumc/backlight
+[2]: http://www.jmir.org/2013/10/e220
+[3]: http://www.medicine20congress.com/ocs/index.php/med/med2010/paper/view/455
+[4]: http://mhealth.jmir.org/about/editorialTeam
+[5]: http://www.igz.nl/
+[6]: http://radboudreshapecenter.com/wpcontent/uploads/2014/06/Rapport_SocialeMedia.pdf
+[7]: https://vimeo.com/radboudumc/backlight
