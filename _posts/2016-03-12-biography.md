@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Biography.
-datePublished: '2016-03-13T08:42:40.958Z'
-dateModified: '2016-03-13T08:42:37.511Z'
+datePublished: '2016-03-13T08:52:54.290Z'
+dateModified: '2016-03-13T08:52:12.073Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-biography.md
@@ -278,18 +278,6 @@ Apple : Being on of the only 2 hospitals outside the US to start using Health ki
 
 ****
 
-**Books List**
-
-1\. Engelen LJLPG, **_Ch@nge. In: 19 Key Essays on How Internet Is Changing Our Lives._** 2013:217-232 https://www.bbvaopenmind.com/en/book/19-key-essays-on-how-internet-is-changing-our-lives/
-
-2\. Engelen LJLPG,Cloïn C, Peeters P-H. Managementbib.com - **_De Patiënt Als Partner : De Zoektocht Van Het UMC St. Radboud_**. managementbib.com; 2012 http://www.bsl.nl/shop/de-patient-als-partner-9789031398355.html
-
-3\. Engelen LJLPG, **_A Little Booklet About Health 2.0 _**2010\. http://www.amazon.com/Little-Booklet-About-Health-2-0/dp/9059723961
-
-4\. Engelen LJLPG, **_Health 2.1: the Update. 2010 _**http://www.amazon.com/Health-2-0-update-Lucien-Engelen-ebook/dp/B008AC77F6/ref=asap\_bc?ie=UTF8
-
-5\. Engelen LJLPG, **_Een Heel Klein Boekje Over Zorg 2.0_**. Uitgeverij Eburon; 2010 https://www.managementboek.nl/boek/9789059723900/een-heel-klein-boekje-over-zorg-2.0-lucien-engelen
-
 ****
 
 **Academic Papers:**
@@ -419,12 +407,28 @@ Steven Teerenstra, Melvin Samsom, Lisette Schoonhoven. JMIR **[URL: http://www.j
 2012 -- present : **_Blogs in Linkedin's Influencer program_** See list of over 100 blogs (see attached list)
 
 ****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2478873c-682c-4911-b92b-1bc0f3c80a8b.jpg)
+
+**Books List**
+
+1\. Engelen LJLPG,**_Ch@nge. In: 19 Key Essays on How Internet Is Changing Our Lives._**2013:217-232 https://www.bbvaopenmind.com/en/book/19-key-essays-on-how-internet-is-changing-our-lives/
+
+2\. Engelen LJLPG,Cloïn C, Peeters P-H. Managementbib.com -**_De Patiënt Als Partner : De Zoektocht Van Het UMC St. Radboud_**. managementbib.com; 2012 http://www.bsl.nl/shop/de-patient-als-partner-9789031398355.html
+
+3\. Engelen LJLPG,**_A Little Booklet About Health 2.0_**2010\. http://www.amazon.com/Little-Booklet-About-Health-2-0/dp/9059723961
+
+4\. Engelen LJLPG, **_Health 2.1: the Update. 2010 _**http://www.amazon.com/Health-2-0-update-Lucien-Engelen-ebook/dp/B008AC77F6/ref=asap\_bc?ie=UTF8
+
+5\. Engelen LJLPG,**_Een Heel Klein Boekje Over Zorg 2.0_**. Uitgeverij Eburon; 2010 https://www.managementboek.nl/boek/9789059723900/een-heel-klein-boekje-over-zorg-2.0-lucien-engelen
 
 ****
 
 ****
 
 ****
+
+****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dc173fe-c45d-43f5-9d85-f0679862eac5.png)
 
 **Lectures List**
 
@@ -590,6 +594,8 @@ Steven Teerenstra, Melvin Samsom, Lisette Schoonhoven. JMIR **[URL: http://www.j
 
 81\. Engelen LJLPG, **_Medisch Contact_** Lucien Engelen interview. medisch contact.
 
+****
+
 **Magazine List**
 
 1\. Brauck M. Leben und Sterben im digitalen Zeitalter **_Der Spiegel_**. Des Spiegel. 2015\.
@@ -612,6 +618,8 @@ Steven Teerenstra, Melvin Samsom, Lisette Schoonhoven. JMIR **[URL: http://www.j
 
 10\. Engelen LJLPG. **_ICT onderzoek_**. 2010\.
 
+****
+
 **Newspaper List**
 
 1\. Murray S. **_Financial Times_**.June 17, 2015\.
@@ -633,6 +641,9 @@ Steven Teerenstra, Melvin Samsom, Lisette Schoonhoven. JMIR **[URL: http://www.j
 ****
 
 ****
+
+****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ffebe20-43a6-4b56-98a4-75aa5bb5a30b.jpg)
 
 **Broadcast List**
 
@@ -663,10 +674,7 @@ __
 ****
 
 __
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2478873c-682c-4911-b92b-1bc0f3c80a8b.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dc173fe-c45d-43f5-9d85-f0679862eac5.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/64310593-68e3-44df-b977-a5bec11ac3ff.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7506f19d-ca65-45fd-86c1-a9328b4d00ce.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/66149c14-b713-400e-8564-584d0a5c6ed1.png)
 
 [0]: http://goo.gl/g3OzdY
 [1]: http://goo.gl/R5lNGX
